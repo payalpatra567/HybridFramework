@@ -1,0 +1,14 @@
+02:12:09.167 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Close the popup window
+02:12:10.801 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the send keys value
+02:12:11.647 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - next it shows the which is customer enter
+02:12:13.412 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+02:12:24.678 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the pop up window
+02:12:24.802 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Moved to child window successfully
+02:12:24.835 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Switched back to parent window
+02:12:24.840 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the browser
+02:12:27.490 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+02:12:29.621 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - 482
+02:12:41.503 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Subscribed Successfully
+02:12:45.620 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Driver is closed successfully
+02:12:47.088 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+02:12:58.348 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the pop up window

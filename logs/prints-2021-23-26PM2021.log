@@ -1,0 +1,9 @@
+20:23:02.074 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is intialized
+20:23:02.080 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Driver is setup
+20:23:05.894 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+20:23:31.063 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+20:23:43.828 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the pop up window
+20:23:52.328 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - shows the giftcard page
+20:23:52.972 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - it is  automatically click the wedding button  
+20:23:53.987 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the recipient name and email
+20:23:55.927 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the your name,email,number and message

@@ -1,0 +1,18 @@
+01:42:22.722 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is intialized
+01:42:22.726 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Driver is setup
+01:42:24.724 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+01:42:24.731 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+01:42:29.544 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Successfully Navigated to Table page
+01:42:30.230 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+01:42:30.230 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+01:42:34.196 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Successfully Navigated to Curtains page
+01:42:35.222 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+01:42:35.222 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+01:42:40.244 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Successfully Navigated to Mirror page
+01:42:40.881 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+01:42:40.881 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+01:42:45.023 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Successfully Navigated to Hanging Light page
+01:42:45.622 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+01:42:45.622 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+01:42:50.072 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Successfully Navigated to Bedroom page
+01:42:50.386 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - After complete all process browser is close

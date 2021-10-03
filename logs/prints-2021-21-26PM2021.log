@@ -1,0 +1,5 @@
+20:21:09.441 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+20:21:31.537 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - click the track order it is showing enter the orer number and phone number
+20:21:32.463 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - click the submit buttom
+20:21:36.557 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+20:21:59.262 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the browser

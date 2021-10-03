@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 281.539 s <<< FAILURE! - in TestSuite
+com.UrbanLadder.Runner.FooterTest.Footer  Time elapsed: 13.169 s  <<< FAILURE!
+java.lang.AssertionError: expected [CNBC TV 18 - Young turks] but found [CNBC TV 18 - Young Turks]
+	at com.UrbanLadder.Runner.FooterTest.Footer(FooterTest.java:48)
+
+com.UrbanLadder.Runner.StoresTest.validateStores  Time elapsed: 9.989 s  <<< FAILURE!
+org.openqa.selenium.ElementClickInterceptedException: 
+element click intercepted: Element <a class="featuredLinksBar__link" href="../../furniture-stores?src=header">...</a> is not clickable at point (935, 19). Other element would receive the click: <div class="reveal-modal-bg" style="display: block;"></div>
+  (Session info: chrome=94.0.4606.71)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAB-63761848683', ip: '172.18.23.148', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.71, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:64982}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 882f1df7e0ae6a7ba5be07cb5ec7a0a1
+	at com.UrbanLadder.Runner.StoresTest.validateStores(StoresTest.java:38)
+

@@ -1,0 +1,11 @@
+22:02:02.279 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the pop up window
+22:02:05.476 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - it is check the assert is correct or not
+22:02:05.603 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - it is check the assert is correct or not
+22:02:05.718 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - it is check the assert is correct or not
+22:02:08.112 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+22:02:24.317 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - click the track order it is showing enter the orer number and phone number
+22:02:24.734 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - click the submit buttom
+22:02:26.986 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+22:02:39.712 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - print the customer review
+22:02:40.983 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the browser
+22:02:43.111 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup

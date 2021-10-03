@@ -1,0 +1,11 @@
+22:01:03.959 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the pop up window
+22:01:04.322 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Moved to child window successfully
+22:01:04.367 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Switched back to parent window
+22:01:04.368 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the browser
+22:01:07.706 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+22:01:10.432 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - 482
+22:01:26.909 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Subscribed Successfully
+22:01:31.225 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Driver is closed successfully
+22:01:33.033 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+22:01:44.428 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the pop up window
+22:01:50.692 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup

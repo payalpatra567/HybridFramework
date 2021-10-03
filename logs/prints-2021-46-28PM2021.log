@@ -1,0 +1,5 @@
+12:46:34.194 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+12:46:45.635 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Close the popup window
+12:46:47.789 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the send keys value
+12:46:49.030 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - next it shows the which is customer enter
+12:46:55.050 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup

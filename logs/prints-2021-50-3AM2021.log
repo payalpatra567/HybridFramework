@@ -1,0 +1,4 @@
+01:50:43.619 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+01:50:54.830 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the pop up window
+01:50:55.004 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Moved to child window successfully
+01:50:55.004 [main] ERROR com.UrbanLadder.ReusableComponents.reusablecomponent - Getting error : Unable to get the expected text

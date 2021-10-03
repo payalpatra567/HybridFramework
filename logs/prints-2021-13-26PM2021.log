@@ -1,0 +1,6 @@
+13:13:09.625 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is intialized
+13:13:09.629 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Driver is setup
+13:13:11.730 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+13:13:30.836 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent -  user click the login icone in that time sign in and sign up
+13:13:30.933 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - user click the login buttom
+13:13:39.945 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the email adress and password

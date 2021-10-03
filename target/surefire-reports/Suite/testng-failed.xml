@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.UrbanLadder.Utility.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="FooterTest(failed)">
+    <classes>
+      <class name="com.UrbanLadder.Runner.FooterTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="Footer"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- com.UrbanLadder.Runner.FooterTest -->
+    </classes>
+  </test> <!-- FooterTest(failed) -->
+  <test thread-count="5" verbose="0" name="StoresTest(failed)">
+    <classes>
+      <class name="com.UrbanLadder.Runner.StoresTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="validateStores"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- com.UrbanLadder.Runner.StoresTest -->
+    </classes>
+  </test> <!-- StoresTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

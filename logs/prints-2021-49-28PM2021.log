@@ -1,0 +1,16 @@
+12:49:03.874 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - shows the giftcard page
+12:49:04.337 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - it is  automatically click the wedding button  
+12:49:05.139 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the recipient name and email
+12:49:05.970 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the your name,email,number and message
+12:49:08.120 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is intialized
+12:49:08.120 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Driver is setup
+12:49:09.730 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+12:49:19.513 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+12:49:22.403 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the send keys and it show the in search box
+12:49:25.990 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - here show the available link present in the page
+12:49:33.196 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+12:49:44.466 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the pop up window
+12:49:47.566 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - it is check the assert is correct or not
+12:49:47.682 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - it is check the assert is correct or not
+12:49:48.063 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - it is check the assert is correct or not
+12:49:54.039 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup

@@ -1,0 +1,4 @@
+01:05:06.586 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the pop up window
+01:05:06.809 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Moved to child window successfully
+01:05:06.809 [main] ERROR com.UrbanLadder.ReusableComponents.reusablecomponent - Getting error : Unable to get the expected text
+01:05:18.219 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the browser

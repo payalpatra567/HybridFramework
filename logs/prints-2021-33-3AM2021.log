@@ -1,0 +1,24 @@
+02:33:00.208 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is intialized
+02:33:00.213 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Driver is setup
+02:33:02.096 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+02:33:02.096 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+02:33:06.662 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Successfully Navigated to Table page
+02:33:07.320 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+02:33:07.320 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+02:33:11.997 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Successfully Navigated to Curtains page
+02:33:12.618 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+02:33:12.618 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+02:33:15.516 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Successfully Navigated to Mirror page
+02:33:16.233 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+02:33:16.234 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+02:33:21.654 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Successfully Navigated to Hanging Light page
+02:33:22.201 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+02:33:22.202 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+02:33:25.792 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Successfully Navigated to Bedroom page
+02:33:29.894 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - After complete all process browser is close
+02:33:31.389 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is intialized
+02:33:31.389 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Driver is setup
+02:33:32.984 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+02:33:42.611 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+02:33:45.696 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the send keys and it show the in search box
+02:33:48.928 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - here show the available link present in the page

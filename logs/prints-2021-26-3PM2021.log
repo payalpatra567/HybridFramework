@@ -1,0 +1,11 @@
+17:26:05.306 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Successfully Navigated to Hanging Light page
+17:26:05.937 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+17:26:05.937 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+17:26:18.090 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Successfully Navigated to Bedroom page
+17:26:22.219 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - After complete all process browser is close
+17:26:24.428 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is intialized
+17:26:24.428 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Driver is setup
+17:26:25.921 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+17:26:35.863 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+17:26:38.552 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the send keys and it show the in search box
+17:26:43.108 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - here show the available link present in the page

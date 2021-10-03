@@ -1,0 +1,4 @@
+01:52:07.828 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the pop up window
+01:52:07.984 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Moved to child window successfully
+01:52:08.028 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Switched back to parent window
+01:52:08.037 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the browser

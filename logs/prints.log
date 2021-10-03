@@ -1,0 +1,8 @@
+22:11:01.229 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Successfully Navigated to Bedroom page
+22:11:05.392 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - After complete all process browser is close
+22:11:06.947 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is intialized
+22:11:06.947 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Driver is setup
+22:11:08.436 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+22:11:18.357 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+22:11:21.660 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the send keys and it show the in search box
+22:11:25.242 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - here show the available link present in the page

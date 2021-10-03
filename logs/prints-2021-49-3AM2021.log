@@ -1,0 +1,3 @@
+00:49:07.182 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+00:49:19.736 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - print the customer review
+00:49:19.794 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the browser

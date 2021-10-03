@@ -1,0 +1,6 @@
+12:48:30.952 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is intialized
+12:48:30.956 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Driver is setup
+12:48:32.668 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+12:48:42.358 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+12:48:45.248 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the send keys and it show the in search box
+12:48:48.992 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - here show the available link present in the page

@@ -1,0 +1,10 @@
+00:34:03.331 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Close the popup window
+00:34:05.401 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the send keys value
+00:34:06.489 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - next it shows the which is customer enter
+00:34:09.255 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+00:34:25.426 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - click the track order it is showing enter the orer number and phone number
+00:34:25.881 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - click the submit buttom
+00:34:31.993 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+00:34:45.439 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - print the customer review
+00:34:45.556 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the browser
+00:34:48.194 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup

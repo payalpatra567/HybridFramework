@@ -1,0 +1,9 @@
+00:16:00.598 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+00:16:16.309 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - click the track order it is showing enter the orer number and phone number
+00:16:16.706 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - click the submit buttom
+00:16:22.999 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+00:16:35.932 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - print the customer review
+00:16:36.079 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the browser
+00:16:42.087 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+00:16:57.671 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - click the store it show all available furniture
+00:16:59.641 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - it is check the assert is correct or not

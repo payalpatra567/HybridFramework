@@ -1,0 +1,4 @@
+12:47:23.701 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is intialized
+12:47:23.706 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Driver is setup
+12:47:25.888 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+12:47:35.899 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window

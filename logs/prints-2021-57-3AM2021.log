@@ -1,0 +1,5 @@
+01:57:47.908 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+01:57:59.364 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the pop up window
+01:57:59.565 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Moved to child window successfully
+01:57:59.584 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Switched back to parent window
+01:57:59.599 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the browser

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" ignored="0" total="17" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="277353" started-at="2021-10-03T22:00:24 IST" finished-at="2021-10-03T22:05:01 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="25143" started-at="2021-10-03T22:00:24 IST" finished-at="2021-10-03T22:00:49 IST">
+      <class name="com.UrbanLadder.Runner.HelpTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.UrbanLadder.Runner.HelpTest@76ed1b7c]" name="initialize" is-config="true" duration-ms="7733" started-at="2021-10-03T22:00:24 IST" finished-at="2021-10-03T22:00:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="GiftCardValidate()[pri:0, instance:com.UrbanLadder.Runner.HelpTest@76ed1b7c]" name="GiftCardValidate" duration-ms="12984" started-at="2021-10-03T22:00:32 IST" finished-at="2021-10-03T22:00:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GiftCardValidate -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.UrbanLadder.Runner.HelpTest@76ed1b7c]" name="teardown" is-config="true" duration-ms="4368" started-at="2021-10-03T22:00:45 IST" finished-at="2021-10-03T22:00:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.UrbanLadder.Runner.HelpTest -->
+    </test> <!-- Test -->
+    <test name="WindowTest" duration-ms="14893" started-at="2021-10-03T22:00:49 IST" finished-at="2021-10-03T22:01:04 IST">
+      <class name="com.UrbanLadder.Runner.WindowTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.UrbanLadder.Runner.WindowTest@3c947bc5]" name="initialize" is-config="true" duration-ms="4831" started-at="2021-10-03T22:00:49 IST" finished-at="2021-10-03T22:00:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="Window()[pri:0, instance:com.UrbanLadder.Runner.WindowTest@3c947bc5]" name="Window" duration-ms="9996" started-at="2021-10-03T22:00:54 IST" finished-at="2021-10-03T22:01:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Window -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.UrbanLadder.Runner.WindowTest@3c947bc5]" name="teardown" is-config="true" duration-ms="62" started-at="2021-10-03T22:01:04 IST" finished-at="2021-10-03T22:01:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.UrbanLadder.Runner.WindowTest -->
+    </test> <!-- WindowTest -->
+    <test name="LinksInHomePage" duration-ms="26791" started-at="2021-10-03T22:01:04 IST" finished-at="2021-10-03T22:01:31 IST">
+      <class name="com.UrbanLadder.Runner.LinksInHomePage">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.UrbanLadder.Runner.LinksInHomePage@1329eff]" name="initialize" is-config="true" duration-ms="5417" started-at="2021-10-03T22:01:04 IST" finished-at="2021-10-03T22:01:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="CountLinks()[pri:0, instance:com.UrbanLadder.Runner.LinksInHomePage@1329eff]" name="CountLinks" duration-ms="576" started-at="2021-10-03T22:01:09 IST" finished-at="2021-10-03T22:01:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CountLinks -->
+        <test-method status="PASS" signature="CustomerStories()[pri:0, instance:com.UrbanLadder.Runner.LinksInHomePage@1329eff]" name="CustomerStories" duration-ms="16475" started-at="2021-10-03T22:01:10 IST" finished-at="2021-10-03T22:01:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CustomerStories -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.UrbanLadder.Runner.LinksInHomePage@1329eff]" name="teardown" is-config="true" duration-ms="4316" started-at="2021-10-03T22:01:26 IST" finished-at="2021-10-03T22:01:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.UrbanLadder.Runner.LinksInHomePage -->
+    </test> <!-- LinksInHomePage -->
+    <test name="AddressTest" duration-ms="17453" started-at="2021-10-03T22:01:31 IST" finished-at="2021-10-03T22:01:48 IST">
+      <class name="com.UrbanLadder.Runner.AddressTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.UrbanLadder.Runner.AddressTest@1fb700ee]" name="initialize" is-config="true" duration-ms="4473" started-at="2021-10-03T22:01:31 IST" finished-at="2021-10-03T22:01:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="AdressTest()[pri:0, instance:com.UrbanLadder.Runner.AddressTest@1fb700ee]" name="AdressTest" duration-ms="8812" started-at="2021-10-03T22:01:35 IST" finished-at="2021-10-03T22:01:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdressTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.UrbanLadder.Runner.AddressTest@1fb700ee]" name="teardown" is-config="true" duration-ms="4166" started-at="2021-10-03T22:01:44 IST" finished-at="2021-10-03T22:01:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.UrbanLadder.Runner.AddressTest -->
+    </test> <!-- AddressTest -->
+    <test name="FooterTest" duration-ms="17549" started-at="2021-10-03T22:01:48 IST" finished-at="2021-10-03T22:02:06 IST">
+      <class name="com.UrbanLadder.Runner.FooterTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.UrbanLadder.Runner.FooterTest@8317c52]" name="initialize" is-config="true" duration-ms="3929" started-at="2021-10-03T22:01:48 IST" finished-at="2021-10-03T22:01:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="FAIL" signature="Footer()[pri:0, instance:com.UrbanLadder.Runner.FooterTest@8317c52]" name="Footer" duration-ms="13159" started-at="2021-10-03T22:01:52 IST" finished-at="2021-10-03T22:02:05 IST">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [CNBC TV 18 - Young turks] but found [CNBC TV 18 - Young Turks]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [CNBC TV 18 - Young turks] but found [CNBC TV 18 - Young Turks]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at com.UrbanLadder.Runner.FooterTest.Footer(FooterTest.java:48)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1259)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:284)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:119)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:428)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:562)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Footer -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.UrbanLadder.Runner.FooterTest@8317c52]" name="teardown" is-config="true" duration-ms="444" started-at="2021-10-03T22:02:05 IST" finished-at="2021-10-03T22:02:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.UrbanLadder.Runner.FooterTest -->
+    </test> <!-- FooterTest -->
+    <test name="TrackOrderTest" duration-ms="18974" started-at="2021-10-03T22:02:06 IST" finished-at="2021-10-03T22:02:25 IST">
+      <class name="com.UrbanLadder.Runner.TrackOrderTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.UrbanLadder.Runner.TrackOrderTest@f381794]" name="initialize" is-config="true" duration-ms="3701" started-at="2021-10-03T22:02:06 IST" finished-at="2021-10-03T22:02:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="Trackorders()[pri:0, instance:com.UrbanLadder.Runner.TrackOrderTest@f381794]" name="Trackorders" duration-ms="14950" started-at="2021-10-03T22:02:09 IST" finished-at="2021-10-03T22:02:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Trackorders -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.UrbanLadder.Runner.TrackOrderTest@f381794]" name="teardown" is-config="true" duration-ms="319" started-at="2021-10-03T22:02:24 IST" finished-at="2021-10-03T22:02:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.UrbanLadder.Runner.TrackOrderTest -->
+    </test> <!-- TrackOrderTest -->
+    <test name="ViewCustomerTest" duration-ms="16088" started-at="2021-10-03T22:02:25 IST" finished-at="2021-10-03T22:02:41 IST">
+      <class name="com.UrbanLadder.Runner.ViewCustomerTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.UrbanLadder.Runner.ViewCustomerTest@152aa092]" name="initialize" is-config="true" duration-ms="3350" started-at="2021-10-03T22:02:25 IST" finished-at="2021-10-03T22:02:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="viewcustomerstories()[pri:0, instance:com.UrbanLadder.Runner.ViewCustomerTest@152aa092]" name="viewcustomerstories" duration-ms="12397" started-at="2021-10-03T22:02:28 IST" finished-at="2021-10-03T22:02:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewcustomerstories -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.UrbanLadder.Runner.ViewCustomerTest@152aa092]" name="teardown" is-config="true" duration-ms="339" started-at="2021-10-03T22:02:40 IST" finished-at="2021-10-03T22:02:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.UrbanLadder.Runner.ViewCustomerTest -->
+    </test> <!-- ViewCustomerTest -->
+    <test name="StoresTest" duration-ms="18694" started-at="2021-10-03T22:02:41 IST" finished-at="2021-10-03T22:03:00 IST">
+      <class name="com.UrbanLadder.Runner.StoresTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.UrbanLadder.Runner.StoresTest@306cf3ea]" name="initialize" is-config="true" duration-ms="4486" started-at="2021-10-03T22:02:41 IST" finished-at="2021-10-03T22:02:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="FAIL" signature="validateStores()[pri:0, instance:com.UrbanLadder.Runner.StoresTest@306cf3ea]" name="validateStores" duration-ms="9992" started-at="2021-10-03T22:02:45 IST" finished-at="2021-10-03T22:02:55 IST">
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[element click intercepted: Element <a class="featuredLinksBar__link" href="../../furniture-stores?src=header">...</a> is not clickable at point (935, 19). Other element would receive the click: <div class="reveal-modal-bg" style="display: block;"></div>
+  (Session info: chrome=94.0.4606.71)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAB-63761848683', ip: '172.18.23.148', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.71, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:64982}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 882f1df7e0ae6a7ba5be07cb5ec7a0a1]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="featuredLinksBar__link" href="../../furniture-stores?src=header">...</a> is not clickable at point (935, 19). Other element would receive the click: <div class="reveal-modal-bg" style="display: block;"></div>
+  (Session info: chrome=94.0.4606.71)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAB-63761848683', ip: '172.18.23.148', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.71, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:64982}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 882f1df7e0ae6a7ba5be07cb5ec7a0a1
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+at com.UrbanLadder.Runner.StoresTest.validateStores(StoresTest.java:38)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1259)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:284)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:119)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:428)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:562)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateStores -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.UrbanLadder.Runner.StoresTest@306cf3ea]" name="teardown" is-config="true" duration-ms="4215" started-at="2021-10-03T22:02:55 IST" finished-at="2021-10-03T22:03:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.UrbanLadder.Runner.StoresTest -->
+    </test> <!-- StoresTest -->
+    <test name="Runner" duration-ms="43256" started-at="2021-10-03T22:03:00 IST" finished-at="2021-10-03T22:03:43 IST">
+      <class name="com.UrbanLadder.Runner.Runner">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.UrbanLadder.Runner.Runner@52102734]" name="openBrowser" is-config="true" duration-ms="1595" started-at="2021-10-03T22:03:00 IST" finished-at="2021-10-03T22:03:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="HomePage()[pri:0, instance:com.UrbanLadder.Runner.Runner@52102734]" name="HomePage" duration-ms="41277" started-at="2021-10-03T22:03:01 IST" finished-at="2021-10-03T22:03:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.UrbanLadder.Runner.Runner@52102734]" name="closeBrowser" is-config="true" duration-ms="384" started-at="2021-10-03T22:03:42 IST" finished-at="2021-10-03T22:03:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.UrbanLadder.Runner.Runner -->
+    </test> <!-- Runner -->
+    <test name="GiftcardTest" duration-ms="20020" started-at="2021-10-03T22:03:43 IST" finished-at="2021-10-03T22:04:03 IST">
+      <class name="com.UrbanLadder.Runner.GiftcardTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.UrbanLadder.Runner.GiftcardTest@2892dae4]" name="initialize" is-config="true" duration-ms="4022" started-at="2021-10-03T22:03:43 IST" finished-at="2021-10-03T22:03:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="GiftCardValidate()[pri:0, instance:com.UrbanLadder.Runner.GiftcardTest@2892dae4]" name="GiftCardValidate" duration-ms="15722" started-at="2021-10-03T22:03:47 IST" finished-at="2021-10-03T22:04:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GiftCardValidate -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.UrbanLadder.Runner.GiftcardTest@2892dae4]" name="teardown" is-config="true" duration-ms="274" started-at="2021-10-03T22:04:03 IST" finished-at="2021-10-03T22:04:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.UrbanLadder.Runner.GiftcardTest -->
+    </test> <!-- GiftcardTest -->
+    <test name="SearchExcelTest" duration-ms="37520" started-at="2021-10-03T22:04:03 IST" finished-at="2021-10-03T22:04:40 IST">
+      <class name="com.UrbanLadder.Runner.SearchExcelTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.UrbanLadder.Runner.SearchExcelTest@865dd6]" name="openBrowser" is-config="true" duration-ms="1644" started-at="2021-10-03T22:04:03 IST" finished-at="2021-10-03T22:04:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="SearchPage(java.lang.String)[pri:0, instance:com.UrbanLadder.Runner.SearchExcelTest@865dd6]" name="SearchPage" duration-ms="10141" started-at="2021-10-03T22:04:06 IST" data-provider="getData" finished-at="2021-10-03T22:04:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Table]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchPage -->
+        <test-method status="PASS" signature="SearchPage(java.lang.String)[pri:0, instance:com.UrbanLadder.Runner.SearchExcelTest@865dd6]" name="SearchPage" duration-ms="4434" started-at="2021-10-03T22:04:16 IST" data-provider="getData" finished-at="2021-10-03T22:04:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Curtains]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchPage -->
+        <test-method status="PASS" signature="SearchPage(java.lang.String)[pri:0, instance:com.UrbanLadder.Runner.SearchExcelTest@865dd6]" name="SearchPage" duration-ms="4987" started-at="2021-10-03T22:04:20 IST" data-provider="getData" finished-at="2021-10-03T22:04:25 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mirror]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchPage -->
+        <test-method status="PASS" signature="SearchPage(java.lang.String)[pri:0, instance:com.UrbanLadder.Runner.SearchExcelTest@865dd6]" name="SearchPage" duration-ms="6248" started-at="2021-10-03T22:04:25 IST" data-provider="getData" finished-at="2021-10-03T22:04:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hanging Light]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchPage -->
+        <test-method status="PASS" signature="SearchPage(java.lang.String)[pri:0, instance:com.UrbanLadder.Runner.SearchExcelTest@865dd6]" name="SearchPage" duration-ms="4828" started-at="2021-10-03T22:04:31 IST" data-provider="getData" finished-at="2021-10-03T22:04:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bedroom]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchPage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.UrbanLadder.Runner.SearchExcelTest@865dd6]" name="closeBrowser" is-config="true" duration-ms="4191" started-at="2021-10-03T22:04:36 IST" finished-at="2021-10-03T22:04:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.UrbanLadder.Runner.SearchExcelTest -->
+    </test> <!-- SearchExcelTest -->
+    <test name="SearchTest" duration-ms="20870" started-at="2021-10-03T22:04:40 IST" finished-at="2021-10-03T22:05:01 IST">
+      <class name="com.UrbanLadder.Runner.SearchTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.UrbanLadder.Runner.SearchTest@6a370f4]" name="openBrowser" is-config="true" duration-ms="1533" started-at="2021-10-03T22:04:40 IST" finished-at="2021-10-03T22:04:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="SearchPage()[pri:0, instance:com.UrbanLadder.Runner.SearchTest@6a370f4]" name="SearchPage" duration-ms="19336" started-at="2021-10-03T22:04:42 IST" finished-at="2021-10-03T22:05:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchPage -->
+      </class> <!-- com.UrbanLadder.Runner.SearchTest -->
+    </test> <!-- SearchTest -->
+  </suite> <!-- Suite -->
+</testng-results>

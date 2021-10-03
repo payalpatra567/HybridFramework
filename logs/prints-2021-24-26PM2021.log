@@ -1,0 +1,10 @@
+20:24:00.316 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is intialized
+20:24:00.328 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Driver is setup
+20:24:03.757 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+20:24:13.775 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+20:24:17.867 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the send keys and it show the in search box
+20:24:34.155 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+20:24:47.925 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the pop up window
+20:24:55.912 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - it is check the assert is correct or not
+20:24:56.507 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - it is check the assert is correct or not
+20:24:56.878 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - it is check the assert is correct or not

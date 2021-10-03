@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<!--<listener class-name="com.UrbanLadder.Utility.Listeners"/>-->
+<listener class-name="com.UrbanLadder.Utility.ExtentReporterNG"/>
+</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.UrbanLadder.Runner.HelpTest"/>
+       </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="WindowTest">
+    <classes>
+      <class name="com.UrbanLadder.Runner.WindowTest"/>
+       </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="LinksInHomePage">
+    <classes>
+      <class name="com.UrbanLadder.Runner.LinksInHomePage"/>
+      </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="AddressTest">
+    <classes>
+      <class name="com.UrbanLadder.Runner.AddressTest"/>
+      </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="FooterTest">
+    <classes>
+      <class name="com.UrbanLadder.Runner.FooterTest"/>
+      </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="TrackOrderTest">
+    <classes>
+      <class name="com.UrbanLadder.Runner.TrackOrderTest"/>
+      </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="ViewCustomerTest">
+    <classes>
+      <class name="com.UrbanLadder.Runner.ViewCustomerTest"/>
+      </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="StoresTest">
+    <classes>
+      <class name="com.UrbanLadder.Runner.StoresTest"/>
+      </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="Runner">
+    <classes>
+      <class name="com.UrbanLadder.Runner.Runner"/>
+      </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="GiftcardTest">
+    <classes>
+      <class name="com.UrbanLadder.Runner.GiftcardTest"/>
+      </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="SearchExcelTest">
+    <classes>
+      <class name="com.UrbanLadder.Runner.SearchExcelTest"/>
+      </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="SearchTest">
+    <classes>
+      <class name="com.UrbanLadder.Runner.SearchTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

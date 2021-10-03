@@ -1,0 +1,8 @@
+12:39:05.889 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - click the store it show all available furniture
+12:39:08.555 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - it is check the assert is correct or not
+12:39:10.518 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+12:39:33.769 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is intialized
+12:39:33.770 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Driver is setup
+12:39:36.071 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+12:39:54.865 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent -  user click the login icone in that time sign in and sign up
+12:39:54.948 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - user click the login buttom

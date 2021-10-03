@@ -1,0 +1,10 @@
+01:35:01.821 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is intialized
+01:35:01.827 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Driver is setup
+01:35:03.838 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+01:35:03.842 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+01:35:07.930 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Successfully Navigated to Table page
+01:35:08.806 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+01:35:08.806 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+01:35:13.333 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+01:35:13.334 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+01:35:17.167 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - After complete all process browser is close

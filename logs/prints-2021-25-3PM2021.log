@@ -1,0 +1,20 @@
+17:25:04.362 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - After complete all process browser is close
+17:25:05.858 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+17:25:17.048 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the pop up window
+17:25:20.054 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - shows the giftcard page
+17:25:20.551 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - it is  automatically click the wedding button  
+17:25:21.037 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the recipient name and email
+17:25:21.522 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the your name,email,number and message
+17:25:27.328 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is intialized
+17:25:27.328 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Driver is setup
+17:25:29.586 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+17:25:29.586 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+17:25:40.792 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Successfully Navigated to Table page
+17:25:41.547 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+17:25:41.547 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+17:25:46.159 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Successfully Navigated to Curtains page
+17:25:48.653 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+17:25:48.653 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+17:25:58.453 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Successfully Navigated to Mirror page
+17:25:59.688 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+17:25:59.689 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window

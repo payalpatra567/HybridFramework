@@ -1,0 +1,14 @@
+12:40:03.953 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the email adress and password
+12:40:17.122 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+12:40:29.046 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the pop up window
+12:40:32.618 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - shows the giftcard page
+12:40:33.259 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - it is  automatically click the wedding button  
+12:40:33.998 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the recipient name and email
+12:40:34.693 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the your name,email,number and message
+12:40:40.637 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is intialized
+12:40:40.637 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Driver is setup
+12:40:42.181 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+12:40:51.997 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+12:40:54.067 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the send keys and it show the in search box
+12:40:57.271 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - here show the available link present in the page
+12:40:58.395 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - After complete all process browser is close

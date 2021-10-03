@@ -1,0 +1,46 @@
+20:25:08.422 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+20:25:22.173 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the pop up window
+20:25:27.395 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is intialized
+20:25:27.395 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Driver is setup
+20:25:34.279 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+20:25:44.201 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+20:25:49.754 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Successfully Navigated to Table page
+16:35:18.433 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+16:35:34.602 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Close the popup window
+16:35:39.286 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the send keys value
+16:35:46.571 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - next it shows the which is customer enter
+16:35:59.918 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+16:36:32.495 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+16:36:57.122 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - print the customer review
+16:36:58.755 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the browser
+16:37:06.594 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+16:37:38.668 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - click the store it show all available furniture
+16:37:42.488 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - it is check the assert is correct or not
+16:37:48.248 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+16:38:08.715 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is intialized
+16:38:08.715 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Driver is setup
+16:38:14.336 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+16:38:34.247 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent -  user click the login icone in that time sign in and sign up
+16:38:34.662 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - user click the login buttom
+16:38:43.670 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the email adress and password
+16:39:14.843 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+16:39:29.479 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the pop up window
+16:39:43.783 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - shows the giftcard page
+16:39:44.399 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - it is  automatically click the wedding button  
+16:39:45.064 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the recipient name and email
+16:39:47.188 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the your name,email,number and message
+16:39:58.024 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is intialized
+16:39:58.024 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Driver is setup
+16:40:01.187 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+16:40:19.103 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+16:40:37.048 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the pop up window
+16:40:59.791 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - it is check the assert is correct or not
+16:41:00.420 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - it is check the assert is correct or not
+16:41:00.581 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - it is check the assert is correct or not
+16:41:25.686 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+16:41:41.072 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the pop up window
+16:41:44.055 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is intialized
+16:41:44.055 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Driver is setup
+16:42:04.268 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+16:42:13.817 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+16:42:18.225 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Successfully Navigated to Table page

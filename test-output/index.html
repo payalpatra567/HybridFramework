@@ -1,0 +1,880 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports1.css" rel="stylesheet" id="ultra" />
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" id="retro" disabled="false"/>
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <button class="button" id="button">Switch Retro Theme</button> <!-- button -->
+      <br/>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-Suite">
+              <span class="suite-name border-failed">Suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-Suite">
+                    <span>E:\seleniumcode\E2EUrbanLadderHybridFramework\testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-Suite">
+                    <span class="test-stats">12 tests</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-Suite">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-Suite">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-Suite">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-Suite">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-Suite">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">17 methods, 1 failed,   16 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Suite" class="hide-methods failed suite-Suite"> (hide)</a> <!-- hide-methods failed suite-Suite -->
+                      <a href="#" panel-name="suite-Suite" class="show-methods failed suite-Suite"> (show)</a> <!-- show-methods failed suite-Suite -->
+                    </span>
+                    <div class="method-list-content failed suite-Suite">
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.UrbanLadder.Runner.FooterTest" hash-for-method="Footer">Footer</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-Suite -->
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Suite" class="hide-methods passed suite-Suite"> (hide)</a> <!-- hide-methods passed suite-Suite -->
+                      <a href="#" panel-name="suite-Suite" class="show-methods passed suite-Suite"> (show)</a> <!-- show-methods passed suite-Suite -->
+                    </span>
+                    <div class="method-list-content passed suite-Suite">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.UrbanLadder.Runner.AddressTest" hash-for-method="AdressTest">AdressTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.UrbanLadder.Runner.LinksInHomePage" hash-for-method="CountLinks">CountLinks</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.UrbanLadder.Runner.LinksInHomePage" hash-for-method="CustomerStories">CustomerStories</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.UrbanLadder.Runner.HelpTest" hash-for-method="GiftCardValidate">GiftCardValidate</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.UrbanLadder.Runner.GiftcardTest" hash-for-method="GiftCardValidate">GiftCardValidate</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.UrbanLadder.Runner.Runner" hash-for-method="HomePage">HomePage</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.UrbanLadder.Runner.SearchExcelTest" hash-for-method="SearchPage(Hanging Light)">SearchPage(Hanging Light)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.UrbanLadder.Runner.SearchExcelTest" hash-for-method="SearchPage(Bedroom)">SearchPage(Bedroom)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.UrbanLadder.Runner.SearchExcelTest" hash-for-method="SearchPage(Curtains)">SearchPage(Curtains)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.UrbanLadder.Runner.SearchExcelTest" hash-for-method="SearchPage(Mirror)">SearchPage(Mirror)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.UrbanLadder.Runner.SearchExcelTest" hash-for-method="SearchPage(Table)">SearchPage(Table)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.UrbanLadder.Runner.SearchTest" hash-for-method="SearchPage">SearchPage</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.UrbanLadder.Runner.TrackOrderTest" hash-for-method="Trackorders">Trackorders</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.UrbanLadder.Runner.WindowTest" hash-for-method="Window">Window</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.UrbanLadder.Runner.StoresTest" hash-for-method="validateStores">validateStores</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.UrbanLadder.Runner.ViewCustomerTest" hash-for-method="viewcustomerstories">viewcustomerstories</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Suite" class="panel Suite">
+          <div class="suite-Suite-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">com.UrbanLadder.Runner.FooterTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="Footer">
+                  </a> <!-- Footer -->
+                  <span class="method-name">Footer</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [CNBC TV 18 - Young turks] but found [CNBC TV 18 - Young Turks]
+	at com.UrbanLadder.Runner.FooterTest.Footer(FooterTest.java:48)
+	at java.util.ArrayList.forEach(ArrayList.java:1259)
+... Removed 33 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-failed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.UrbanLadder.Runner.SearchExcelTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="SearchPage(Hanging Light)">
+                  </a> <!-- SearchPage(Hanging Light) -->
+                  <span class="method-name">SearchPage</span>
+                  <span class="parameters">(Hanging Light)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="SearchPage(Bedroom)">
+                  </a> <!-- SearchPage(Bedroom) -->
+                  <span class="method-name">SearchPage</span>
+                  <span class="parameters">(Bedroom)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="SearchPage(Curtains)">
+                  </a> <!-- SearchPage(Curtains) -->
+                  <span class="method-name">SearchPage</span>
+                  <span class="parameters">(Curtains)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="SearchPage(Mirror)">
+                  </a> <!-- SearchPage(Mirror) -->
+                  <span class="method-name">SearchPage</span>
+                  <span class="parameters">(Mirror)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="SearchPage(Table)">
+                  </a> <!-- SearchPage(Table) -->
+                  <span class="method-name">SearchPage</span>
+                  <span class="parameters">(Table)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.UrbanLadder.Runner.Runner</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="HomePage">
+                  </a> <!-- HomePage -->
+                  <span class="method-name">HomePage</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.UrbanLadder.Runner.GiftcardTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="GiftCardValidate">
+                  </a> <!-- GiftCardValidate -->
+                  <span class="method-name">GiftCardValidate</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.UrbanLadder.Runner.TrackOrderTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="Trackorders">
+                  </a> <!-- Trackorders -->
+                  <span class="method-name">Trackorders</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.UrbanLadder.Runner.HelpTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="GiftCardValidate">
+                  </a> <!-- GiftCardValidate -->
+                  <span class="method-name">GiftCardValidate</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.UrbanLadder.Runner.AddressTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="AdressTest">
+                  </a> <!-- AdressTest -->
+                  <span class="method-name">AdressTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.UrbanLadder.Runner.StoresTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateStores">
+                  </a> <!-- validateStores -->
+                  <span class="method-name">validateStores</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.UrbanLadder.Runner.SearchTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="SearchPage">
+                  </a> <!-- SearchPage -->
+                  <span class="method-name">SearchPage</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.UrbanLadder.Runner.ViewCustomerTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="viewcustomerstories">
+                  </a> <!-- viewcustomerstories -->
+                  <span class="method-name">viewcustomerstories</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.UrbanLadder.Runner.WindowTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="Window">
+                  </a> <!-- Window -->
+                  <span class="method-name">Window</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.UrbanLadder.Runner.LinksInHomePage</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="CountLinks">
+                  </a> <!-- CountLinks -->
+                  <span class="method-name">CountLinks</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="CustomerStories">
+                  </a> <!-- CustomerStories -->
+                  <span class="method-name">CustomerStories</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
+        </div> <!-- panel Suite -->
+        <div panel-name="test-xml-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">E:\seleniumcode\E2EUrbanLadderHybridFramework\testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Suite&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;com.UrbanLadder.Utility.ExtentReporterNG&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Test&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.UrbanLadder.Runner.HelpTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Test --&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;WindowTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.UrbanLadder.Runner.WindowTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- WindowTest --&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;LinksInHomePage&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.UrbanLadder.Runner.LinksInHomePage&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- LinksInHomePage --&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;AddressTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.UrbanLadder.Runner.AddressTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- AddressTest --&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;FooterTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.UrbanLadder.Runner.FooterTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- FooterTest --&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;TrackOrderTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.UrbanLadder.Runner.TrackOrderTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- TrackOrderTest --&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;ViewCustomerTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.UrbanLadder.Runner.ViewCustomerTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- ViewCustomerTest --&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;StoresTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.UrbanLadder.Runner.StoresTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- StoresTest --&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Runner&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.UrbanLadder.Runner.Runner&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Runner --&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;GiftcardTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.UrbanLadder.Runner.GiftcardTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- GiftcardTest --&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;SearchExcelTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.UrbanLadder.Runner.SearchExcelTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- SearchExcelTest --&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;SearchTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.UrbanLadder.Runner.SearchTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- SearchTest --&gt;
+&lt;/suite&gt; &lt;!-- Suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Test (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">WindowTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">LinksInHomePage (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">AddressTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">FooterTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">TrackOrderTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">ViewCustomerTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">StoresTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">Runner (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">GiftcardTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">SearchExcelTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">SearchTest (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Suite');
+function tableData_Suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(17);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'HomePage')
+data.setCell(0, 2, 'com.UrbanLadder.Runner.Runner')
+data.setCell(0, 3, 41557);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'SearchPage')
+data.setCell(1, 2, 'com.UrbanLadder.Runner.SearchTest')
+data.setCell(1, 3, 18598);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'GiftCardValidate')
+data.setCell(2, 2, 'com.UrbanLadder.Runner.GiftcardTest')
+data.setCell(2, 3, 18208);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'validateStores')
+data.setCell(3, 2, 'com.UrbanLadder.Runner.StoresTest')
+data.setCell(3, 3, 16333);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'Trackorders')
+data.setCell(4, 2, 'com.UrbanLadder.Runner.TrackOrderTest')
+data.setCell(4, 3, 14489);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'CustomerStories')
+data.setCell(5, 2, 'com.UrbanLadder.Runner.LinksInHomePage')
+data.setCell(5, 3, 12669);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'GiftCardValidate')
+data.setCell(6, 2, 'com.UrbanLadder.Runner.HelpTest')
+data.setCell(6, 3, 12295);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'Footer')
+data.setCell(7, 2, 'com.UrbanLadder.Runner.FooterTest')
+data.setCell(7, 3, 12064);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'viewcustomerstories')
+data.setCell(8, 2, 'com.UrbanLadder.Runner.ViewCustomerTest')
+data.setCell(8, 3, 11205);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'Window')
+data.setCell(9, 2, 'com.UrbanLadder.Runner.WindowTest')
+data.setCell(9, 3, 10059);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'AdressTest')
+data.setCell(10, 2, 'com.UrbanLadder.Runner.AddressTest')
+data.setCell(10, 3, 9864);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'SearchPage')
+data.setCell(11, 2, 'com.UrbanLadder.Runner.SearchExcelTest')
+data.setCell(11, 3, 6139);
+data.setCell(12, 0, 12)
+data.setCell(12, 1, 'SearchPage')
+data.setCell(12, 2, 'com.UrbanLadder.Runner.SearchExcelTest')
+data.setCell(12, 3, 5943);
+data.setCell(13, 0, 13)
+data.setCell(13, 1, 'SearchPage')
+data.setCell(13, 2, 'com.UrbanLadder.Runner.SearchExcelTest')
+data.setCell(13, 3, 5597);
+data.setCell(14, 0, 14)
+data.setCell(14, 1, 'SearchPage')
+data.setCell(14, 2, 'com.UrbanLadder.Runner.SearchExcelTest')
+data.setCell(14, 3, 4674);
+data.setCell(15, 0, 15)
+data.setCell(15, 1, 'SearchPage')
+data.setCell(15, 2, 'com.UrbanLadder.Runner.SearchExcelTest')
+data.setCell(15, 3, 4593);
+data.setCell(16, 0, 16)
+data.setCell(16, 1, 'CountLinks')
+data.setCell(16, 2, 'com.UrbanLadder.Runner.LinksInHomePage')
+data.setCell(16, 3, 494);
+window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 3 minutes</span>
+              <div id="times-div-Suite">
+              </div> <!-- times-div-Suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.UrbanLadder.Runner.HelpTest</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">initialize</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="test-method">
+                <span class="method-name">GiftCardValidate</span>
+                <span class="method-start">4726 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-test after">
+                <span class="method-name">teardown</span>
+                <span class="method-start">17030 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.UrbanLadder.Runner.WindowTest</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">initialize</span>
+                <span class="method-start">21275 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="test-method">
+                <span class="method-name">Window</span>
+                <span class="method-start">24704 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-test after">
+                <span class="method-name">teardown</span>
+                <span class="method-start">34771 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.UrbanLadder.Runner.LinksInHomePage</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">initialize</span>
+                <span class="method-start">35681 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="test-method">
+                <span class="method-name">CountLinks</span>
+                <span class="method-start">38895 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">CustomerStories</span>
+                <span class="method-start">39392 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-test after">
+                <span class="method-name">teardown</span>
+                <span class="method-start">52063 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.UrbanLadder.Runner.AddressTest</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">initialize</span>
+                <span class="method-start">52538 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="test-method">
+                <span class="method-name">AdressTest</span>
+                <span class="method-start">55512 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-test after">
+                <span class="method-name">teardown</span>
+                <span class="method-start">65378 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.UrbanLadder.Runner.FooterTest</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">initialize</span>
+                <span class="method-start">69582 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">Footer</span>
+                <span class="method-start">72987 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-test after">
+                <span class="method-name">teardown</span>
+                <span class="method-start">85061 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.UrbanLadder.Runner.TrackOrderTest</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">initialize</span>
+                <span class="method-start">89591 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="test-method">
+                <span class="method-name">Trackorders</span>
+                <span class="method-start">93297 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-test after">
+                <span class="method-name">teardown</span>
+                <span class="method-start">107787 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.UrbanLadder.Runner.ViewCustomerTest</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">initialize</span>
+                <span class="method-start">112381 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="test-method">
+                <span class="method-name">viewcustomerstories</span>
+                <span class="method-start">115715 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-test after">
+                <span class="method-name">teardown</span>
+                <span class="method-start">126922 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.UrbanLadder.Runner.StoresTest</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">initialize</span>
+                <span class="method-start">131314 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="test-method">
+                <span class="method-name">validateStores</span>
+                <span class="method-start">134737 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-test after">
+                <span class="method-name">teardown</span>
+                <span class="method-start">151071 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.UrbanLadder.Runner.Runner</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">openBrowser</span>
+                <span class="method-start">151773 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="test-method">
+                <span class="method-name">HomePage</span>
+                <span class="method-start">153385 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-test after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">194943 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.UrbanLadder.Runner.GiftcardTest</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">initialize</span>
+                <span class="method-start">196242 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="test-method">
+                <span class="method-name">GiftCardValidate</span>
+                <span class="method-start">199351 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-test after">
+                <span class="method-name">teardown</span>
+                <span class="method-start">217560 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.UrbanLadder.Runner.SearchExcelTest</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">openBrowser</span>
+                <span class="method-start">221978 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="test-method">
+                <span class="method-name">SearchPage(Table)</span>
+                <span class="method-start">224380 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">SearchPage(Curtains)</span>
+                <span class="method-start">230326 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">SearchPage(Mirror)</span>
+                <span class="method-start">234921 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">SearchPage(Hanging Light)</span>
+                <span class="method-start">239596 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">SearchPage(Bedroom)</span>
+                <span class="method-start">245739 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-test after">
+                <span class="method-name">closeBrowser</span>
+                <span class="method-start">251346 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.UrbanLadder.Runner.SearchTest</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">openBrowser</span>
+                <span class="method-start">255466 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="test-method">
+                <span class="method-name">SearchPage</span>
+                <span class="method-start">257015 ms</span>
+              </div> <!-- test-method -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+<script type="text/javascript" src="testng-reports2.js"></script>
+</html>

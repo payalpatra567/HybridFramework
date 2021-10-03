@@ -1,0 +1,27 @@
+22:04:00.774 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - shows the giftcard page
+22:04:01.538 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - it is  automatically click the wedding button  
+22:04:02.249 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the recipient name and email
+22:04:02.899 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the your name,email,number and message
+22:04:04.972 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is intialized
+22:04:04.972 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Driver is setup
+22:04:09.389 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+22:04:09.391 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+22:04:16.109 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Successfully Navigated to Table page
+22:04:16.800 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+22:04:16.801 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+22:04:20.564 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Successfully Navigated to Curtains page
+22:04:21.173 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+22:04:21.173 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+22:04:25.551 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Successfully Navigated to Mirror page
+22:04:26.269 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+22:04:26.269 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+22:04:31.793 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Successfully Navigated to Hanging Light page
+22:04:32.606 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+22:04:32.606 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+22:04:36.629 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Successfully Navigated to Bedroom page
+22:04:40.847 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - After complete all process browser is close
+22:04:42.388 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is intialized
+22:04:42.388 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Driver is setup
+22:04:44.288 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+22:04:54.243 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the popup window
+22:04:57.325 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the send keys and it show the in search box

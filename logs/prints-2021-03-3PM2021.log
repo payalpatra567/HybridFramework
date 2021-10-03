@@ -1,0 +1,9 @@
+22:03:01.635 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is intialized
+22:03:01.639 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Driver is setup
+22:03:03.020 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - Url is open
+22:03:22.031 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent -  user click the login icone in that time sign in and sign up
+22:03:22.266 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - user click the login buttom
+22:03:31.271 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - enter the email adress and password
+22:03:43.298 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - After complete all process browser is close
+22:03:45.479 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - driver is setup
+22:03:56.908 [main] INFO  com.UrbanLadder.ReusableComponents.reusablecomponent - close the pop up window
